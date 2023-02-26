@@ -3,4 +3,5 @@ export type ProductProps = {
   price: number
   imageUrl: string
   id: string
+  quantity?: number;
 }
